@@ -10,7 +10,6 @@ const Footer = () => {
             Made with <b>React.js</b>
         </span>
         
-
     </footer>
   )
 }
